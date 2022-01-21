@@ -1,6 +1,6 @@
 # google_earth_time_zone
 Show time zone map on
-1. Google Maps on mobile, and web.
+1. Google Maps on web, and mobile.
 2. Google Earth in web browser, mobile, and desktop, also shows time.
 
 The project is based on this file:
