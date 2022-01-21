@@ -11,11 +11,11 @@ Have time zone overlay over the globe.
 
 Click on any location on the map will show time zone info and time
 
-## How to run
-Open Google Earth in web browser, mobile, or desktop
+## How to use
+Open Google Earth in [web browser](https://earth.google.com/web/), mobile, or desktop:
 https://www.google.com/earth/versions/
 
-Import the KML file [timezone_clock.kml](../../raw/main/timezone_clock.kml) into Google Earth
+Import the KML file [timezone_clock.kml](../../raw/main/timezone_clock.kml) into Google Earth:
 https://support.google.com/earth/answer/7365595
 
 ## Screenshots
