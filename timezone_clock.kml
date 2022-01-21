@@ -124,7 +124,7 @@
   <styleUrl>#hidelist</styleUrl>
 
 		<Placemark>
-			<name>GMT -12:00</name>
+			<name>UTC -12:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -162,7 +162,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT -11:00</name>
+			<name>UTC -11:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -209,7 +209,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT -10:00</name>
+			<name>UTC -10:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -265,7 +265,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT -09:30</name>
+			<name>UTC -09:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -292,7 +292,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT -09:00</name>
+			<name>UTC -09:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -336,7 +336,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT -08:30</name>
+			<name>UTC -08:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -363,7 +363,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT -08:00</name>
+			<name>UTC -08:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -401,7 +401,7 @@
 			</MultiGeometry>			
 		</Placemark>
 		<Placemark>
-			<name>GMT -07:00</name>
+			<name>UTC -07:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -428,7 +428,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT -06:00</name>
+			<name>UTC -06:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -455,7 +455,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT -05:00</name>
+			<name>UTC -05:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -482,7 +482,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT -04:00</name>
+			<name>UTC -04:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -530,7 +530,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT -03:30</name>
+			<name>UTC -03:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -557,7 +557,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT -03:00</name>
+			<name>UTC -03:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -605,7 +605,7 @@
 			</MultiGeometry>			
 		</Placemark>
 		<Placemark>
-			<name>GMT -02:00</name>
+			<name>UTC -02:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -643,7 +643,7 @@
 			</MultiGeometry>	
 		</Placemark>
 		<Placemark>
-			<name>GMT -01:00</name>
+			<name>UTC -01:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -690,7 +690,7 @@
 			</MultiGeometry>	
 		</Placemark>
 		<Placemark>
-			<name>GMT +00:00</name>
+			<name>UTC +00:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -737,7 +737,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +01:00</name>
+			<name>UTC +01:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -764,7 +764,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +02:00</name>
+			<name>UTC +02:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -802,7 +802,7 @@
 			</MultiGeometry>	
 		</Placemark>
 		<Placemark>
-			<name>GMT +03:00</name>
+			<name>UTC +03:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -840,7 +840,7 @@
 			</MultiGeometry>	
 		</Placemark>
 		<Placemark>
-			<name>GMT +03:30</name>
+			<name>UTC +03:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -867,7 +867,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +04:00</name>
+			<name>UTC +04:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -932,7 +932,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +04:30</name>
+			<name>UTC +04:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -959,7 +959,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +05:00</name>
+			<name>UTC +05:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1012,7 +1012,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +05:30</name>
+			<name>UTC +05:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1059,7 +1059,7 @@
 			</MultiGeometry>	
 		</Placemark>
 		<Placemark>
-			<name>GMT +05:45</name>
+			<name>UTC +05:45</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1086,7 +1086,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +06:00</name>
+			<name>UTC +06:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1151,7 +1151,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +06:30</name>
+			<name>UTC +06:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1189,7 +1189,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +07:00</name>
+			<name>UTC +07:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1227,7 +1227,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +08:00</name>
+			<name>UTC +08:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1265,7 +1265,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +09:00</name>
+			<name>UTC +09:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1312,7 +1312,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +09:30</name>
+			<name>UTC +09:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1339,7 +1339,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +10:00</name>
+			<name>UTC +10:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1386,7 +1386,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +10:30</name>
+			<name>UTC +10:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1413,7 +1413,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +11:00</name>
+			<name>UTC +11:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1457,7 +1457,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +11:30</name>
+			<name>UTC +11:30</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1484,7 +1484,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>GMT +12:00</name>
+			<name>UTC +12:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1540,7 +1540,7 @@
 			</MultiGeometry>	
 		</Placemark>
 		<Placemark>
-			<name>GMT +12:45</name>
+			<name>UTC +12:45</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
@@ -1578,7 +1578,7 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
-			<name>GMT +13:00</name>
+			<name>UTC +13:00</name>
 		<description><![CDATA[<div style="width:300px;height:50px;"  id="clock" ></div>
 <script language="JavaScript">
       var int=self.setInterval("tick()",50);
