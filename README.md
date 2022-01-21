@@ -1,5 +1,7 @@
 # google_earth_time_zone
-Show time zone map on Google Earth in web browser, mobile, and desktop.
+Show time zone map on
+1. Google Earth in web browser, mobile, and desktop.
+2. Google Maps on mobile, and web.
 
 The project is based on this file:
 http://www.barnabu.co.uk/files/kmz/timezone_clock.kmz
