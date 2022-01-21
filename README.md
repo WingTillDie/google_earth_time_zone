@@ -15,7 +15,7 @@ Click on any location on the map will show time zone info and time
 Open Google Earth in web browser, mobile, or desktop
 https://www.google.com/earth/versions/
 
-Import the KML file [timezone_clock.kml](timezone_clock.kml) into Google Earth
+Import the KML file [timezone_clock.kml](../../raw/main/timezone_clock.kml) into Google Earth
 https://support.google.com/earth/answer/7365595
 
 ## Screenshots
