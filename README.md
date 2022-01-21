@@ -32,6 +32,12 @@ Mobile (Android):
 Desktop (macOS):
 ![](figs/screenshot_macOS.png)
 
+Preview on Google My Maps on the web (Firefox):
+![](figs/screenshot_Google_My_Maps.png)
+
+Preview of Google My Maps on Google Maps Android:
+![](figs/screenshot_Google_My_Maps_Android.png)
+
 ## Diff compared to original file
 1. Made cross-platform by adding time zone info in content of features
 2. Modified all GMT to UTC
