@@ -135,7 +135,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-12:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -173,7 +173,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-11:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -220,7 +220,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-10:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -276,7 +276,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-09:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -303,7 +303,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-09:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -347,7 +347,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-08:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -374,7 +374,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-08:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -412,7 +412,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-07:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -439,7 +439,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-06:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -466,7 +466,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-05:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -493,7 +493,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-04:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -541,7 +541,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-03:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -568,7 +568,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-03:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -616,7 +616,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-02:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -654,7 +654,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC-01:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -701,7 +701,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+00:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -748,7 +748,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+01:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -775,7 +775,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+02:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -813,7 +813,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+03:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -851,7 +851,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+03:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -878,7 +878,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+04:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -943,7 +943,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+04:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -970,7 +970,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+05:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1023,7 +1023,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+05:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1070,7 +1070,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+05:45<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1097,7 +1097,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+06:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1162,7 +1162,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+06:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1200,7 +1200,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+07:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1238,7 +1238,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+08:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1276,7 +1276,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+09:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1323,7 +1323,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+09:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1350,7 +1350,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+10:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1397,7 +1397,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+10:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1424,7 +1424,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+11:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1468,7 +1468,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+11:30<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1495,7 +1495,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+12:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1551,7 +1551,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+12:45<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
@@ -1589,7 +1589,7 @@
        d = new Date();
        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
        nd = new Date(utc + (3600000*offset));
-       return nd.toLocaleString();
+       return "UTC+13:00<br>" + nd.toLocaleString();
    }
 </script>
 ]]></description>
