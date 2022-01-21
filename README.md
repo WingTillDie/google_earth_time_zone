@@ -18,7 +18,7 @@ https://www.google.com/earth/versions/
 Import the KML file [timezone_clock.kml](../../raw/main/timezone_clock.kml) into Google Earth:
 https://support.google.com/earth/answer/7365595
 
-[Preview](https://www.google.com/maps/d/u/0/viewer?mid=1p6Q6MCzlLxrtaU6A6yn4od-uj4u9R6w8&usp=sharing) on Google My Maps (only have time zone map, doesn't calculate time)
+[Preview](https://www.google.com/maps/d/u/0/viewer?mid=1p6Q6MCzlLxrtaU6A6yn4od-uj4u9R6w8&usp=sharing) on Google My Maps (only has time zone map, doesn't calculate time)
 
 ## Screenshots
 Web (Firefox):
