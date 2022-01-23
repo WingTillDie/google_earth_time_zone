@@ -1,3 +1,4 @@
+![](figs/banner.png)
 # google_earth_time_zone
 Show time zone map on
 1. Google Maps on web, and mobile.
