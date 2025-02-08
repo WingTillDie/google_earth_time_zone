@@ -2,7 +2,7 @@
 Google Maps & Earth time zone map on web, mobile, desktop 
 
 ## Usage
-* [View  on Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1p6Q6MCzlLxrtaU6A6yn4od-uj4u9R6w8&usp=sharing) on web or mobile apps  
+* [View on Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1p6Q6MCzlLxrtaU6A6yn4od-uj4u9R6w8&usp=sharing) on web or mobile apps  
 * [View on Google Earth](https://earth.google.com/earth/d/1KD_1T8DSfpZK2PK2YF3Wpc-HSIru0BHQ?usp=sharing) on web or mobile apps  
 * Open [Google Earth desktop](https://www.google.com/earth/about/versions/#earth-pro), then [import](https://support.google.com/earth/answer/7365595) the KML file [timezone_clock.kml](../../raw/main/timezone_clock.kml)
 
