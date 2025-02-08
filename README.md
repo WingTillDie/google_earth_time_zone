@@ -26,19 +26,19 @@ https://support.google.com/earth/answer/7365595
 
 ## Screenshots
 Google Maps web (Firefox):  
-![](figs/screenshot_Google_My_Maps.png)
+![](figs/screenshot_Google_Maps_web.png)
 
 Google Maps mobile (iOS):  
-![](figs/screenshot_Google_My_Maps_iOS.png)
+![](figs/screenshot_Google_Maps_mobile_iOS.png)
 
 Google Earth web (Firefox):  
-![](figs/screenshot_Firefox.png)
+![](figs/screenshot_Google_Earth_web.png)
 
 Google Earth mobile (iOS):  
-![](figs/screenshot_iOS.png)
+![](figs/screenshot_Google_Earth_mobile_iOS.png)
 
 Google Earth desktop (Windows):  
-![](figs/screenshot_Windows.png)
+![](figs/screenshot_Google_Earth_desktop_Windows.png)
 
 ## Diff compared to original file
 1. Made cross-platform by adding time zone info in content of features
