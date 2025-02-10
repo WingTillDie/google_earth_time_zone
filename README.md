@@ -6,12 +6,11 @@ Google Maps & Earth time zone map on web, mobile, desktop
 * [View on Google Earth](https://earth.google.com/earth/d/1KD_1T8DSfpZK2PK2YF3Wpc-HSIru0BHQ?usp=sharing) on web or mobile apps  
 * Open [Google Earth desktop](https://www.google.com/earth/about/versions/#earth-pro), then [import](https://support.google.com/earth/answer/7365595) the KML file [timezone_clock.kml](../../raw/main/timezone_clock.kml)
 
-## Screenshot
-![](figs/banner.png)
-
 ## Features
 * Has time zone overlay over the globe.  
+![time zone overlay over the globe](figs/banner.png)
 * Click on any location on the map will show time zone info. In Google Earth, it will also show time.  
+![shows time in specified time zone](figs/screenshot_Google_Earth_mobile_iOS.png)
 
 ## Commits summary
 1. Made the Google Earth [file](http://www.barnabu.co.uk/files/kmz/timezone_clock.kmz) compatible with Google Maps by adding time zone info in the content of features, rather than just in the title.
